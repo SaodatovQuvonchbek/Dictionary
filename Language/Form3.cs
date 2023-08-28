@@ -39,14 +39,7 @@ namespace Language
             panel4.Controls.Add(userControl);
             userControl.BringToFront();
         }
-        private void button7_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            LoginForm form = new LoginForm();
-            form.ShowDialog();
-            form = null;
-            this.Show();
-        }
+     
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -84,8 +77,7 @@ namespace Language
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            this.Close();
-
+            Application.Exit();
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
@@ -144,11 +136,11 @@ namespace Language
         {
             tableLayoutPanel2.Visible = false;
             label6.Text = "Lug'at";
-            label7.Text = "AXBOROT-KOMMUNIKATSIYA TEXNOLOGIYALARI VA ALOQA HARBIY INSTITUTI";
+           
             button3.Text = "O'zbek tili";
             button9.Text = "Ingliz tli";
             button2.Text = "Rus tili";
-            button7.Text = "Kirish";
+            //button7.Text = "Kirish";
             button4.Text = "Sozlamalar";
             button1.Text = "Muallif";
         }
@@ -157,11 +149,11 @@ namespace Language
         {
             tableLayoutPanel2.Visible = false;
             label6.Text = "Dictionary";
-            label7.Text = "MILITARY INSTITUTE OF INFORMATION-COMMUNICATION TECHNOLOGIES AND COMMUNICATIONS";
+          
             button3.Text = "Uzbek";
             button9.Text = "English";
             button2.Text = "Russian";
-            button7.Text = "Admin";
+            //button7.Text = "Admin";
             button4.Text = "Settings";
             button1.Text = "Author";
         }
@@ -170,11 +162,10 @@ namespace Language
         {
             tableLayoutPanel2.Visible = false;
             label6.Text = "Словарь";
-            label7.Text = "ВОЕННЫЙ ИНСТИТУТ ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫХ ТЕХНОЛОГИЙ И СВЯЗИ";
             button3.Text = "Узбекский ";
             button9.Text = "Английский ";
             button3.Text = "Русский ";
-            button7.Text = "Войти";
+            //button7.Text = "Войти";
             button4.Text = "Настройки";
             button1.Text = "Автор";
         }

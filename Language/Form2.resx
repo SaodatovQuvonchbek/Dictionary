@@ -120,4 +120,210 @@
   <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="progressBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 332</value>
+  </data>
+  <data name="progressBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>606, 11</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="progressBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Name" xml:space="preserve">
+    <value>progressBar1</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pictureBox1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>606, 343</value>
+  </data>
+  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-4, 0</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 24</value>
+  </data>
+  <data name="label7.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>KS_coders</value>
+  </data>
+  <data name="label7.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>606, 343</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAEBAAAAEAIABoBAAAJgAAACAgAAABACAAqBAAAI4EAAAoAAAAEAAAACAAAAABACAAAAAAADAE
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMSC
+        csLUu7D/3NjP/9zYz//c2M//3NjP4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL9q
+        VQy3WUn9uFpJ/9S9s//c2M//3NjP/9zYz/8AAAAAAAAAAAAAAAAAAAAA8pcgjvOWIarzliGq85YhqvOW
+        IarpljfH1opO/9OISv/all7/3NjP/9HMwf/c2M//AAAAAAAAAAAAAAAAAAAAAPOWIf/zliH/85Yh//OW
+        If/zliH/85Yh//OWIf/zliH/0ZpQ/6Ocif+mnoz/3NjP/wAAAAAAAAAAAAAAAAAAAADzliH/85Yh//OW
+        If/zliH/85Yh//OWIf/zliH/85Yh/6OLY/+Xj3n/3NjP/9zYz/8AAAAAAAAAAAAAAAAAAAAA85Yh//Wl
+        QP/86M3/85Yh//jFhf/5x4n/85Yh/+qfQP+9t6j/q6OT/723qP/c2M//AAAAAAAAAAAAAAAAAAAAAPOW
+        If/zliH//OfN//zp0P/++vX/9KI5//OWIf+7j1L/jIJq/4uBav+OhW7/xb6x/wAAAAAAAAAAAAAAAAAA
+        AADzliH/85Yh//jCfv/5yo///OPE//OWIf/ymCb/3dTD/9HMwf/RzMH/3NjP/9zYz/8AAAAAAAAAAAAA
+        AAAAAAAA85Yh//OWIf/0nTD//vr1//e8cv/zliH/661d/9zYz//c2M//3NjP/9zYz//c2M//AAAAAAAA
+        AAAAAAAAAAAAAPOWIf/zliH/85Yh//ayXP/zmir/85Yh/+TBk87c18+73NfPu9zXz7vc18+73NnQkgAA
+        AAAAAAAAAAAAAAAAAADzliH/85Yh//OWIf/zliH/85Yh//OWIuT/qgADAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA9JYh3vOWIf/zliH/85Yh//OWIf/zliKBAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAD//wAA/wMAAP8DAADAAwAAwAMAAMADAADAAwAAwAMAAMAD
+        AADAAwAAwAMAAMD/AADA/wAA//8AAP//AAAoAAAAIAAAAEAAAAABACAAAAAAAIAQAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqqpVA8OAcPLb0sn/3NjP/9zY
+        z//c2M//3NjP/9zYz//c2M//3NjP/9zYz/7d2NCcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADCgnN6tVE//79z
+        Y//a08n/3NjP/9zYz//c2M//3NjP/9zYz//c2M//3NjP/9zYz/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALxr
+        W+S1UT//tVE//79zZP/a08n/3NjP/9zYz//c2M//3NjP/9zYz//c2M//3NjP/wAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAC8b14utlJB/7VRP/+1UT//tVE//790Zf/a08r/3NjP/9zYz//c2M//3NjP/9zYz//c2M//AAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0lSAY9JYiRPSWIkT0liJE9JYiRPSWIkT0liJE9JYiRPSW
+        IkT0liJE9JYiRM2AWbfBcFn/wG9Y/8FwWP/BcFn/wXBZ/8yOcv/c2M//3NjP/9zYz//c2M//3NjP/9zY
+        z/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPOWIdnzliH/85Yh//OWIf/zliH/85Yh//OW
+        If/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/7KpW/9zYz//c2M//yMO3/7u0
+        pf/c2M//3NjP/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA85Yh//OWIf/zliH/85Yh//OW
+        If/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OWIf/iwZX/29fN/6uj
+        kv98cFb/lox2/9zYz//c2M//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADzliH/85Yh//OW
+        If/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/6pQm/5iM
+        dv+SiXP/fXFY/66mlf/a1s7/3NjP/9zYz/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPOW
+        If/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OW
+        If/dpl7/e3BV/31xV//Ev7L/3NjP/9zYz//c2M//3NjP/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAA85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OW
+        If/zliH/85Yh/6KIYP+FemH/gHVc/5+Wgv/c2M//3NjP/9zYz//c2M//AAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAADzliH/85Yh//OWIf/5yY3///////e9dP/zliH/85Yh//OWIf/74L7///////Wm
+        RP/zliH/85Yh//OWIf/ilzX/gXVc/8zHvP/Auaz/e29V/7qzpf/c2M//3NjP/9zYz/8AAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPOWIf/zliH/85Yh//SiO////v3//OHA//OWIf/zliH/9J4y///9
+        +//858z/85Yh//OWIf/zliH/85Yh/961ff/GwLP/3NjP/9zYz/+hmIX/hHhf/9fSyf/c2M//3NjP/wAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA85Yh//OWIf/zliH/85Yh//zmyv//////////////
+        //////////////jCff/zliH/85Yh//OWIf/wlSL/g3FQ/3puVP96blT/em5U/3puVP96blT/em5U/5qR
+        ff/c2M//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADzliH/85Yh//OWIf/zliH/+L52////
+        ///61qj/97lr//3u2////Pn/9J0w//OWIf/zliH/85Yh/+CgTv+8tab/vLWm/5CGb/+Qhm//vLWm/7y1
+        pv+8tab/xsG0/9zYz/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPOWIf/zliH/85Yh//OW
+        If/0nS////z4//vctf/0myv///v3//veuP/zliH/85Yh//OWIf/zliH/48We/9zYz//c2M//saiY/7Go
+        mP/c2M//3NjP/9zYz//c2M//3NjP/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA85Yh//OW
+        If/zliH/85Yh//OWIf/73Lb//vr1//i+df//////97do//OWIf/zliH/85Yh//CdNP/c183/3NjP/9zY
+        z//c2M//3NjP/9zYz//c2M//3NjP/9zYz//c2M//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AADzliH/85Yh//OWIf/zliH/85Yh//e1Yv///////vfu//727f/zmCX/85Yh//OWIf/zliH/6LZ1/9zY
+        z//c2M//3NjP/9zYz//c2M//3NjP/9zYz//c2M//3NjP/9zYz/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAPOWIf/zliH/85Yh//OWIf/zliH/85gm//747///////+tOj//OWIf/zliH/85Yh//OW
+        Iv/fz7f/3NjP/9zYz//c2M//3NjP/9zYz//c2M//3NjP/9zYz//c2M//3NjP/wAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA85Yh//OWIf/zliH/85Yh//OWIf/zliH/+MWF//zjxP/1qkv/85Yh//OW
+        If/zliH/7qZL/9zYz//c2M//3NjP/9zYz//c2M//3NjP/9zYz//c2M//3NjP/9zYz//c2M/WAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADzliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OW
+        If/zliH/85Yh//OWIf/prV+W29jPVdvYz1Xb2M9V29jPVdvYz1Xb2M9V29jPVdvYz1Xb2M9V29jPT97T
+        0xcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPOWIf/zliH/85Yh//OWIf/zliH/85Yh//OW
+        If/zliH/85Yh//OWIf/zliH/9JYh9OudJw0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA85Yh//OWIf/zliH/85Yh//OW
+        If/zliH/85Yh//OWIf/zliH/85Yh//OWIf/0lSCdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADzliH985Yh//OW
+        If/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//KYHzkAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPSW
+        IJ7zliH585Yh//OWIf/zliH/85Yh//OWIf/zliH/85Yh//OWIf/zlSHXAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////4AP//+AD///AA///wAP//4AD/AA
+        AA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AB///AA
+        ///wAP//8AH///AB////////////////////////
+</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Form2</value>
+  </data>
+  <data name="&gt;&gt;timer1.Name" xml:space="preserve">
+    <value>timer1</value>
+  </data>
+  <data name="&gt;&gt;timer1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form2</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>

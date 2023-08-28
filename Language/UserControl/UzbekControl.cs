@@ -74,7 +74,14 @@ namespace Language
 
         private void textBox6_TextChanged_1(object sender, EventArgs e)
         {
-            dt.DefaultView.RowFilter = string.Format("[{0}] LIKE '%{1}%'", "Uzbek", textBox6.Text);
+            try
+            {
+                dt.DefaultView.RowFilter = string.Format("[{0}] LIKE '%{1}%'", "Uzbek", textBox6.Text);
+            }
+            catch
+            {
+            }
+
           
         }
 
@@ -111,6 +118,20 @@ namespace Language
                     pictureBox1.Image = Image.FromFile(".\\Resources\\no-image-available.png"); //Agar rasm mavjud bolmasa rasm yoqligini bildiruvchi rasm chiqaradi
                 }
             }
+        }
+
+        private void UzbekControl_Load(object sender, EventArgs e)
+        {
+            dataGridView1.Columns[0].Visible = false;
+            dataGridView1.Columns[2].Visible = false;
+            dataGridView1.Columns[3].Visible = false;
+            dataGridView1.Columns[4].Visible = false;
+            dataGridView1.Columns[5].Visible = false;
+        }
+
+        private void tableLayoutPanel3_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

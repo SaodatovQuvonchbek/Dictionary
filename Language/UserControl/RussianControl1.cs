@@ -143,5 +143,15 @@ namespace Language
         {
 
         }
+
+        private void RussianControl1_Load(object sender, EventArgs e)
+        {
+
+            dataGridView1.Columns[0].Visible = false;
+            dataGridView1.Columns[2].Visible = false;
+            dataGridView1.Columns[1].Visible = false;
+            dataGridView1.Columns[4].Visible = false;
+            dataGridView1.Columns[5].Visible = false;
+        }
     }
 }

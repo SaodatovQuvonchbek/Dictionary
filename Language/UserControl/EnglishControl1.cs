@@ -47,6 +47,8 @@ namespace Language
                 da.Fill(dt);
                 dataGridView1.DataSource = dt;
                 con.Close();
+              
+
             }
         }
 
@@ -97,6 +99,16 @@ namespace Language
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+        }
+
+        private void EnglishControl1_Load(object sender, EventArgs e)
+        {
+
+            dataGridView1.Columns[0].Visible = false;
+            dataGridView1.Columns[1].Visible = false;
+            dataGridView1.Columns[3].Visible = false;
+            dataGridView1.Columns[4].Visible = false;
+            dataGridView1.Columns[5].Visible = false;
         }
     }
 }
